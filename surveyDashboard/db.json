@@ -1,0 +1,1140 @@
+{
+  "usersurveys": [
+    {
+      "id": "c96a",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "5+",
+          "key": "option3"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "AES",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          },
+          {
+            "id": "option3",
+            "value": "Opportunities for advancement"
+          },
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "no",
+        "id": 4
+      }
+    },
+    {
+      "id": "fae6",
+      "userId": 2,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "2 - 5",
+          "key": "option2"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "ADMIN",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          },
+          {
+            "id": "option3",
+            "value": "Opportunities for advancement"
+          },
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          },
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "NONE",
+        "id": 4
+      }
+    },
+    {
+      "id": "fae6",
+      "userId": 2,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "< 2",
+          "key": "option1"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "AES",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          },
+          {
+            "id": "option3",
+            "value": "Opportunities for advancement"
+          },
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          },
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "Everything is good",
+        "id": 4
+      }
+    },
+    {
+      "id": "ec74",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "5+",
+          "key": "option3"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "MANAGEMENT",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "no",
+        "id": 4
+      }
+    },
+    {
+      "id": "98b2",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "< 2",
+          "key": "option1"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "ADMIN",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "ghj",
+        "id": 4
+      }
+    },
+    {
+      "id": "d7e2",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "2 - 5",
+          "key": "option2"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "ADMIN",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "h",
+        "id": 4
+      }
+    },
+    {
+      "id": "5674",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "< 2",
+          "key": "option1"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "AES",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          },
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          },
+          {
+            "id": "option3",
+            "value": "Opportunities for advancement"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "hkj",
+        "id": 4
+      }
+    },
+    {
+      "id": "0e9a",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "2 - 5",
+          "key": "option2"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "MANAGEMENT",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "hj",
+        "id": 4
+      }
+    },
+    {
+      "id": "70e3",
+      "userId": 1,
+      "surveyId": "20da",
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "HR",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "5+",
+          "key": "option3"
+        },
+        "id": 1
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "fd",
+        "id": 4
+      }
+    },
+    {
+      "id": "9729",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "2 - 5",
+          "key": "option2"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "AES",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          },
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "fe",
+        "id": 4
+      }
+    },
+    {
+      "id": "b1d4",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "2 - 5",
+          "key": "option2"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "HR",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option2",
+            "value": "Meaningful work"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "de",
+        "id": 4
+      }
+    },
+    {
+      "id": "8711",
+      "userId": 1,
+      "surveyId": "20da",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "selectedOption": {
+          "value": "< 2",
+          "key": "option1"
+        },
+        "id": 1
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "selectedOption": {
+          "value": "MANAGEMENT",
+          "key": "dropdown-options"
+        },
+        "id": 2
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "selectedOption": [
+          {
+            "id": "option1",
+            "value": "Competitive salary"
+          },
+          {
+            "id": "option4",
+            "value": "Work-life balance"
+          }
+        ],
+        "id": 3
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "answer": "e",
+        "id": 4
+      }
+    }
+  ],
+  "surveys": [
+    {
+      "id": "20da",
+      "startDate": "07/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "20da",
+      "startDate": "07/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "10da",
+      "startDate": "06/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "11da",
+      "startDate": "05/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "21da",
+      "startDate": "04/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "22da",
+      "startDate": "03/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "25da",
+      "startDate": "02/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "26da",
+      "startDate": "01/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "27da",
+      "startDate": "07/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "28da",
+      "startDate": "01/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "30da",
+      "startDate": "05/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "37da",
+      "startDate": "02/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "27sa",
+      "startDate": "02/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    },
+    {
+      "id": "27wa",
+      "startDate": "03/17/2024",
+      "endDate": "10/25/2024",
+      "status": "Active",
+      "userId": 1,
+      "surveyName": "Employee Survey",
+      "Radio": {
+        "question": "How many years of experience you have?",
+        "id": 1,
+        "type": "Radio",
+        "options": {
+          "option1": "< 2",
+          "option2": "2 - 5",
+          "option3": "5+"
+        }
+      },
+      "Dropdown": {
+        "question": "Which department you belong to?",
+        "id": 2,
+        "type": "Dropdown",
+        "options": {
+          "option1": "AES",
+          "option2": "ADMIN",
+          "option3": "HR",
+          "option4": "MANAGEMENT"
+        }
+      },
+      "Checkbox": {
+        "question": "Which of the following factors contribute most to your job satisfaction?(multi select)",
+        "id": 3,
+        "type": "Checkbox",
+        "options": {
+          "option1": "Competitive salary",
+          "option2": "Meaningful work",
+          "option3": "Opportunities for advancement",
+          "option4": "Work-life balance"
+        }
+      },
+      "Free-text": {
+        "question": "Is there a work style or culture you don't like in the company?",
+        "id": 4,
+        "type": "Free-text"
+      }
+    }
+  ]
+}
