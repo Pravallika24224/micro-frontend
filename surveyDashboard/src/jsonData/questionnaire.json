@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Radio",
+    "id": 1
+  },
+  {
+    "type": "Dropdown",
+    "id": 2
+  },
+  {
+    "type": "Checkbox",
+    "id": 3
+  },
+  {
+    "type": "Free-text",
+    "id": 4
+  }
+]
